@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Mealwise",
+  "short_name": "Mealwise",
+  "description": "Free calorie and macro tracker with an adaptive calorie target. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF1EF",
+  "theme_color": "#0E5A4B",
+  "categories": ["health", "fitness", "food"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
